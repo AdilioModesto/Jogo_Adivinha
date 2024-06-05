@@ -21,7 +21,6 @@ print('   Nosso numero secreto esta entre 1 e 100 - Boa Sorte     \n')
 
 
 numero_secreto = random.randint(1,101)
-print(numero_secreto)
 print('\n ')
 tentativas = 10
 
